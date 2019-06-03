@@ -1,3 +1,6 @@
 [submodule "angular-pat"]
 	path = angular-pat
 	url = https://github.com/fffMagnolia/angular-pat.git
+[submodule "express-pat"]
+	path = express-pat
+	url = https://github.com/fffMagnolia/express-pat.git
